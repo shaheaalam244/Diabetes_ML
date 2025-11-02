@@ -1,1 +1,6 @@
 .env
+.env
+__pycache__/
+.DS_Store
+.idea/
+models/.~lock.heart_disease.csv#
